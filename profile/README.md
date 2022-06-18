@@ -1,4 +1,4 @@
-![banner](banner.svg)
+![banner](https://raw.githubusercontent.com/gnome-cz/.github/main/profile/banner.svg)
 
 <h1 align="center">GNOME Czech Republic</h1>
 <h3 align="center">Czech GNOME Community</h3>
